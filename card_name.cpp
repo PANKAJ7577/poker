@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
 void get_card_value(int p)
     {
         switch(p)
