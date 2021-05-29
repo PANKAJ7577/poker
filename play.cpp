@@ -5,7 +5,6 @@
 
 using namespace std;
 
-
 struct card
 {
     int suit,value;
