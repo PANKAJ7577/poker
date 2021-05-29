@@ -4,7 +4,7 @@ using namespace std;
 
 
 int no_of_players;
-string *names=NULL;;
+string *names=NULL;
 
 
 void display()
